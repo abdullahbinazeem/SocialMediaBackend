@@ -20,7 +20,8 @@
   "type": "module",
   "devDependencies": {},
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "server": "node index.js"
   },
   "keywords": [],
   "author": "",
